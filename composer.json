@@ -1,0 +1,9 @@
+{
+    "name": "thomas-v/training",
+    "autoload": {
+        "psr-4" : {
+            "App\\":"vendor/"
+        }
+    },
+    "require": {}
+}
